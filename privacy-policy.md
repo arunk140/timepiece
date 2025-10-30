@@ -2,7 +2,7 @@
 
 **Effective Date:** October 18, 2025
 
-Your privacy is our top priority. This Privacy Policy explains our approach to user privacy for the [Your App Name] mobile application (the "App").
+Your privacy is our top priority. This Privacy Policy explains our approach to user privacy for the Timepiece - Glyph Toys mobile application (the "App").
 
 This policy is simple: **we do not collect, store, or share any of your personal data.**
 
